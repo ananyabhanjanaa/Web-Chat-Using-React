@@ -66,7 +66,7 @@ return (
   <center>
   <div className="formContainer">
     <div className="formWrapper">
-      <span className="logo"> ˚ ⋆ Ping Chat  ⋆ ˚ </span>
+      <span className="logo"> ˚ ⋆ Ping Chat  ⋆ ˚ </span> <br />
       <span className="title"> ~ Register Page ~ </span>
       <form onSubmit={handleSubmit}>
         <input required type="text" placeholder="display name" /> <br />
