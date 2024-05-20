@@ -23,7 +23,7 @@ const Login = () => {
     <center>
     <div className="formContainer">
       <div className="formWrapper">
-        <span className="logo">  ˚ ⋆ Ping Chat  ⋆ ˚ </span> 
+        <span className="logo">  ˚ ⋆ Ping Chat  ⋆ ˚ </span>  <br />
         <span className="title">Login</span> <br />
         <form onSubmit={handleSubmit}>
           <input type="email" placeholder="email" /> <br />
